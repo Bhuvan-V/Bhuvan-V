@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Bhuvan
 - 📖 Computer Science Student @Amrita Chennai</br>
-- ⚙️I’m interested in UI Design</br>
-- 🖥️ Currently Exploring Python , Java , HTML , CSS and JavaScript</br>
-- 📫 Reach me on [Instagram](https://www.instagram.com/bhuvan.vikram_sb/)
 
 
 ## 🌐 Socials:
